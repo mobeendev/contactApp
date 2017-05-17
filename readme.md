@@ -17,7 +17,7 @@ Database Configuration
      
      Start the wamp server and browse the url : http://localhost/contactapp/public/
      
-     Read the JungleCodersAppDoc file to use this app.
+     Read the Setup-Guide file to use this app.
      
      Thanks.
      
