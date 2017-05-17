@@ -19,6 +19,8 @@ Database Configuration
      
      Read the Setup-Guide file to use this app.
      
+     Important Note: I have not comitted the "vendor" folder. Use the composer  to add that to the project or copy from an existing laravel project.
+     
      Thanks.
      
 
